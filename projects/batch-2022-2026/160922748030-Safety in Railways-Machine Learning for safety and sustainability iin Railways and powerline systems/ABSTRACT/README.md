@@ -24,7 +24,7 @@ Traditional railway and powerline infrastructure monitoring relies heavily on ma
 | Mohammed Almas Qureshi | 160922748025 |
 | Amaan Adaib Khan | 160922748016 |
 
-**Project Guide:** Dr.Kamel AliKhan Siddiqui, Assistant Professor
+**Project Guide:** Dr.Kamel AliKhan Siddiqui, Associate Professor
 
 **Co-Guide / HoD:** Dr. Abdul Rasool MD, Associate Professor & Head of Department, CSE (AIML)
 
